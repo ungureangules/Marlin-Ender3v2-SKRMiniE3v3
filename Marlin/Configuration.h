@@ -68,9 +68,6 @@
 // Show the Marlin bootscreen on startup. ** ENABLE FOR PRODUCTION **
 #define SHOW_BOOTSCREEN
 
-#define STRING_CONFIG_H_AUTHOR "(none, default config)" // Original author or contributor.
-//#define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
-
 // @section machine
 
 // Choose the name from boards.h that matches your setup
